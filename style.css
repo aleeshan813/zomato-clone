@@ -1,0 +1,141 @@
+body
+{
+    margin: 0%;
+}
+.section_div
+{
+    background-image: url('img/zomato.webp');
+}
+.addrestorant,.login,.signup
+{
+    font-family:Tahoma;
+    font-size: 20px;;
+    line-height: 1.5;
+    text-align: right;
+    font-weight: 300;
+    border-radius: 0.6rem;
+    vertical-align: middle;
+    padding: 0.8rem;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.popular_location
+{
+    font-size: 30px;
+}
+h1
+{
+    color: aliceblue;
+    font-size: 40px;
+    font-family: Tahoma;
+}
+.place_div
+{
+    float:left; 
+    margin-left: 20px;
+}
+.p_places
+{
+    font-size: 18px;
+    border: 1.2px solid rgb(213, 209, 209);
+    border-radius: 7px;
+    padding: 25px 70px;
+    font-family: Tahoma;
+    
+    
+}
+.p_places_2
+{
+    font-size: 18px;
+    border: 1.2px solid rgb(213, 209, 209);
+    border-radius: 7px;
+    padding: 25px 70px;
+    font-family: Tahoma;
+}
+.p_places_3
+{
+    font-size: 18px;
+    border: 1.2px solid rgb(213, 209, 209);
+    border-radius: 7px;
+    padding: 25px 60px;
+    font-family: Tahoma;  
+}
+.grid-container
+ {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin-top: 80px; 
+    margin-left: 80px; 
+    margin-right: 80px;
+}
+.grid-container_2
+ {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin-top: 10px; 
+    margin-left: 80px; 
+    margin-right: 80px;
+}
+.p_contries_3
+{
+    text-align: center;
+    font-size: 18px;
+    border: 1.2px solid rgb(213, 209, 209);
+    border-radius: 7px;
+    padding: 10px 30px 60px 1px;
+    font-family: Tahoma;   
+}
+.contry_img
+{
+    float: left; 
+    margin-left: 10px; 
+    margin-top: 6px;
+    width:60px;
+}
+footer
+{
+    background-color: rgb(248 248 248);
+   
+}
+.footer-div
+{
+    margin: 60px;
+}
+.zomato-logo
+{
+    width: 150px;
+    margin-top: 20px;
+}
+.select-div
+{
+    position: absolute;
+    right: 70px;
+}
+.select-div-2
+{
+    position: absolute;
+    float: left;
+    left: 971px;
+}
+select
+{
+    border-radius:7px;
+    width: 100px;
+    height: 40px;
+}
+.selects-div
+{
+    float: left;
+    margin-top: 20px;
+}
+.paragraph
+{
+    color: rgb(134, 134, 134);
+    float: left;
+}
